@@ -3,3 +3,12 @@ Find a workflow to follow that i can easily replicate on new devices if i need t
 
 #########
 
+Step 1. git clone {git url}
+  - Create a folder e.g Git101 After cloning a subfolder will be created with name of repo
+
+Step 2. git status
+- to confirm that you are in synch with main
+
+Step 3. git commit -m 'msg'
+
+Step 4. git push origin main

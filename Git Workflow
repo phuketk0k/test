@@ -25,3 +25,10 @@ git config --global --edit
 
 git commit --amend --reset-author
 
+
+#######
+
+Auth error when trying uname and pwd after git push origin main
+
+
+
